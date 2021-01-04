@@ -1,0 +1,14 @@
+SMAP
+opp_jsp.java
+JSP
+*S JSP
+*F
++ 0 opp.jsp
+opp.jsp
+*L
+1,10:44
+12,9:56
+20,2:65
+22:67,3
+23,3:70
+*E
